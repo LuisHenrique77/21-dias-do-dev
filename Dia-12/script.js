@@ -29,3 +29,4 @@ class Computador {
 const meuComputador = new Computador("notebook", "Ryzen7". "Dedicado", 1000, 16, true);
 meuComputador.ExibirInformacoes();
 
+    
